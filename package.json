@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "./src/api/server.ts",
     "keywords": [
-        "Appolo Server",
+        "Apollo Server",
         "Node.js",
         "TypeScript",
         "GraphQL",
