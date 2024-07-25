@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+yarn.lock
+
+# project specific
+.idea
+.vscode
+.compiled
+dist/
+package-lock.json
+coverage
+#.env this is for the local environment variables

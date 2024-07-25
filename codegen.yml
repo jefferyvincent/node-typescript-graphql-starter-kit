@@ -1,0 +1,6 @@
+schema: "http://localhost:4000/graphql" # Server needs to be already running! Replace with your GraphQL endpoint
+documents: null
+generates:
+  ./dist/schema.json:
+    plugins:
+      - introspection
