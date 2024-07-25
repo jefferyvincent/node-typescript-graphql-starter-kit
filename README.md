@@ -1,6 +1,6 @@
 # node-typescript-graphql-starter-kit
 
-A starter kit for building GraphQL APIs with Node.js, TypeScript, and Apollo Server.
+A modern (2024) starter kit for building GraphQL APIs with Node.js, TypeScript, and Apollo Server. 
 
 ## Prerequisites
 
