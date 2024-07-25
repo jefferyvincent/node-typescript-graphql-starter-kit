@@ -15,6 +15,47 @@ Before starting the project, you need to configure the following files:
 
 - [src/config/dbconfig.ts](src/config/dbconfig.ts): Add the MongoDB path and database name.
 - [.env](.env): Change the test variables.
+- __tests__/
+  firstTest.test.js
+  health/
+	health.test.js
+.babelrc
+.eslintignore
+.eslintrc
+.gitignore
+.huskyrc
+.lintstagedrc
+.prettierrc.js
+codegen.yml
+jest.config.cjs
+LICENSE
+package.json
+README.md
+rollup.config.js
+src/
+  api/
+	controllers/
+	  health.ts
+	  index.ts
+	graphql/
+	  modules/
+		schema.ts
+		setupSubscriptions.ts
+	routes/
+	server.ts
+  app.ts
+  config/
+	dbconfig.ts
+  models/
+	database.ts
+	index.ts
+	testModel.ts
+  services/
+  utils/
+	getEnv.ts
+	getEnvVariables.ts
+	index.ts
+tsconfig.json
 
 To use this repo:
 `npm install`
